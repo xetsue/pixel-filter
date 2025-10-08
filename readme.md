@@ -3,7 +3,7 @@
 ```With minimal real-time background resources.```
 - Aside from battery saving `(Untested)` it could help mimic an older devices aesthetic similar to CRT shader or pixelated UI.
 > <img width="509" height="414" alt="image" src="https://github.com/user-attachments/assets/ece35090-ffc4-4cb4-8216-3336936772b7" />
-Comparison are down below at ``
+Active Preview are attached at [Comparison](https://github.com/xetsue/pixel-filter/blob/master/readme.md#comparison)
 
 ## `0.0v` Interface
 ><img width="540" height="1196" alt="1000285307" src="https://github.com/user-attachments/assets/1771b99f-5177-4efe-b869-35e79b52d685" />
