@@ -1,9 +1,9 @@
 ## Features
-### As of **October 08, 2025**
+#### As of **PLACEHOLDER_DATE**
 - Dims Screens by Displaying Pure Black Pixel overlay especially optimised on AMOLED displays
-```With minimal real-time background resources.```
+>```Low real-time background resources.```
 > Tested On Android 15
-- Theoretical battery saving `(Untested)` and aesthetic for pixelated UI.
+- Theoretical battery saving and aesthetic for pixelated UI.
 ### Without
 > <img width="600" height="125" alt="image" src="https://github.com/user-attachments/assets/13c6a4e7-d840-4c56-9d3c-77cdf1de7f12" />
 ### With
