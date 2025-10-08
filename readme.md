@@ -1,4 +1,12 @@
+## Feature
+- Dims Screens by Displaying Pure Black Pixel overlay especially optimised on AMOLED displays
+```With minimal real-time background resources.```
+- Aside from battery saving (Untested) it could help mimic an older devices aesthetic 
 
+## `0.0v` Interface
+> <img width="540" height="1196" alt="1000285307" src="https://github.com/user-attachments/assets/1771b99f-5177-4efe-b869-35e79b52d685" />
+## QuickTile Shortcut Preview
+><img width="1080" height="1231" alt="1000285312" src="https://github.com/user-attachments/assets/4c211155-b23b-4a62-b1df-adb50e177334" />
 
 
 > ## Old Note from Forked Repo
