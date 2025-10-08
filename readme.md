@@ -1,4 +1,5 @@
-## Feature
+## Feature As Of 
+**Last Updated:** 
 - Dims Screens by Displaying Pure Black Pixel overlay especially optimised on AMOLED displays
 ```With minimal real-time background resources.```
 > Tested On Android 15 (2025)
