@@ -1,7 +1,7 @@
 ## Feature
 - Dims Screens by Displaying Pure Black Pixel overlay especially optimised on AMOLED displays
 ```With minimal real-time background resources.```
-- Aside from battery saving (Untested) it could help mimic an older devices aesthetic 
+- Aside from battery saving `(Untested)` it could help mimic an older devices aesthetic similar to CRT shader or pixelated UI.
 
 ## `0.0v` Interface
 > <img width="540" height="1196" alt="1000285307" src="https://github.com/user-attachments/assets/1771b99f-5177-4efe-b869-35e79b52d685" />
