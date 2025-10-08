@@ -7,7 +7,7 @@
 > <img width="600" height="125" alt="image" src="https://github.com/user-attachments/assets/13c6a4e7-d840-4c56-9d3c-77cdf1de7f12" />
 ### With
 > <img width="580" height="115" alt="image" src="https://github.com/user-attachments/assets/9a268007-fc5e-44af-bc5b-48b35e373eff" />
-#### Concept
+### Concept
 > <img width="509" height="414" alt="image" src="https://github.com/user-attachments/assets/ece35090-ffc4-4cb4-8216-3336936772b7" />
 Older Android Active Preview are attached at [Comparison](https://github.com/xetsue/pixel-filter/blob/master/readme.md#comparison)
 
